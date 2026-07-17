@@ -1,0 +1,16 @@
+{
+  "backgroundHex": "E5ECF5",
+  "borderHex": "91A4BD",
+  "controlCornerRadius": 12,
+  "controlHex": "F7FAFE",
+  "controlPressedHex": "C9D9ED",
+  "controlSpacing": 9,
+  "cornerRadius": 24,
+  "id": "blueprint",
+  "name": "Blueprint",
+  "panelHex": "EDF3FA",
+  "primaryAccentHex": "2B65A3",
+  "secondaryAccentHex": "17324F",
+  "secondaryTextHex": "60758D",
+  "textHex": "152638"
+}

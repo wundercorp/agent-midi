@@ -1,0 +1,100 @@
+{
+  "columns": 4,
+  "controls": [
+    {
+      "accentRole": "primary",
+      "column": 0,
+      "columnSpan": 1,
+      "command": {
+        "arguments": [],
+        "command": "",
+        "kind": "visualStudioCode",
+        "prompt": ""
+      },
+      "id": "B0000000-0000-0000-0000-000000000001",
+      "kind": "pad",
+      "midi": {
+        "channel": 1,
+        "kind": "note",
+        "number": 72,
+        "value": 110
+      },
+      "row": 0,
+      "subtitle": "Open workspace",
+      "symbolName": "chevron.left.forwardslash.chevron.right",
+      "title": "VS Code"
+    },
+    {
+      "accentRole": "primary",
+      "column": 1,
+      "columnSpan": 1,
+      "command": {
+        "arguments": [],
+        "command": "",
+        "kind": "cursor",
+        "prompt": ""
+      },
+      "id": "B0000000-0000-0000-0000-000000000002",
+      "kind": "pad",
+      "midi": {
+        "channel": 1,
+        "kind": "note",
+        "number": 73,
+        "value": 110
+      },
+      "row": 0,
+      "subtitle": "Open workspace",
+      "symbolName": "cursorarrow.rays",
+      "title": "Cursor"
+    },
+    {
+      "accentRole": "primary",
+      "column": 2,
+      "columnSpan": 1,
+      "command": {
+        "arguments": [],
+        "command": "",
+        "kind": "zed",
+        "prompt": ""
+      },
+      "id": "B0000000-0000-0000-0000-000000000003",
+      "kind": "pad",
+      "midi": {
+        "channel": 1,
+        "kind": "note",
+        "number": 74,
+        "value": 110
+      },
+      "row": 0,
+      "subtitle": "Open workspace",
+      "symbolName": "bolt.horizontal",
+      "title": "Zed"
+    },
+    {
+      "accentRole": "primary",
+      "column": 3,
+      "columnSpan": 1,
+      "command": {
+        "arguments": [],
+        "command": "",
+        "kind": "xcode",
+        "prompt": ""
+      },
+      "id": "B0000000-0000-0000-0000-000000000004",
+      "kind": "pad",
+      "midi": {
+        "channel": 1,
+        "kind": "note",
+        "number": 75,
+        "value": 110
+      },
+      "row": 0,
+      "subtitle": "Open workspace",
+      "symbolName": "hammer",
+      "title": "Xcode"
+    }
+  ],
+  "id": "ide-launcher",
+  "name": "IDE Launcher",
+  "rows": 1
+}
