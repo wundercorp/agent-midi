@@ -1,6 +1,6 @@
 # Agent MIDI - Virtual Agentic Keyboard
 
-Agent MIDI is a native Swift programmable MIDI deck for macOS. It runs as an independent virtual MIDI keyboard and can also be embedded inside a SwiftUI IDE.
+Agent MIDI is a native Swift programmable MIDI deck for macOS. It runs as an independent virtual MIDI keyboard and can also be embedded inside a SwiftUI IDE.  Join the Discord for any issues or troubleshooting https://discord.gg/w6htGsCkx6
 
 Inspired by @xikhar | http://x.com/xikhar
 
